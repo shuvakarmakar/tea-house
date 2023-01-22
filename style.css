@@ -1,0 +1,12 @@
+#clr-1{
+    background: rgba(230, 166, 35, 0.1);;
+}
+#height{
+    height: 650px;
+}
+#comments{
+    width: 30rem;
+    position: absolute;
+    bottom: -90rem;
+    left: 37rem;
+}
